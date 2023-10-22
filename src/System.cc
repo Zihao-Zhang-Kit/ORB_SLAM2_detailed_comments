@@ -18,7 +18,7 @@
 * along with ORB-SLAM2. If not, see <http://www.gnu.org/licenses/>.
 */
 
-//主进程的实现文件
+//主进程的实现文件，是整个系统的入口
 
 //包含了一些自建库
 #include "System.h"
